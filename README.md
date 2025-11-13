@@ -1,16 +1,16 @@
-# totp-generator
+# TOTP-Generator
 ##借用大佬[jaden](https://github.com/jaden/totp-generator)的源码
 
-#1.添加了秘钥自动去除空格转化为大写字母。
+<h1 class="subtitle is-5">1.添加了秘钥自动去除空格转化为大写字母。</h1>
 
-##比如谷歌的秘钥：tsxw y3ro 4f4j 6sk2 mjgp kauq pt3z jbia
+比如谷歌的秘钥：tsxw y3ro 4f4j 6sk2 mjgp kauq pt3z jbia
 
 ##粘贴进去会自动转化大写，为后期使用URL片段提供方便，
 
 <img width="613" height="533" alt="image" src="https://github.com/user-attachments/assets/ece6320b-9342-4f07-982e-dc94142b0580" />
 
 
-添加了使用说明
+ <h1 class="subtitle is-5">2.添加了使用说明</h1>
       <!-- 使用说明区域（移动到主程序下方，但在同一个容器内） -->
       <div class="box instructions-box">
         <h2 class="subtitle is-5">使用说明</h2>
