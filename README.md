@@ -10,7 +10,7 @@
 <img width="613" height="533" alt="image" src="https://github.com/user-attachments/assets/ece6320b-9342-4f07-982e-dc94142b0580" />
 
 
-#添加了使用说明
+添加了使用说明
       <!-- 使用说明区域（移动到主程序下方，但在同一个容器内） -->
       <div class="box instructions-box">
         <h2 class="subtitle is-5">使用说明</h2>
